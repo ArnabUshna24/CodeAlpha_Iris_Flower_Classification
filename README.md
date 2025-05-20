@@ -80,7 +80,7 @@ For this project, `RandomForestClassifier` was used.
     <td align="left"> Overall, 90% of all predictions were correct. </td>
   </tr>
   <tr>
-    <td align="left"> Macro Avg </td>
+    <td align="left"> Macro Average </td>
     <td align="center"> 0.90 </td>
     <td align="center"> 0.90 </td>
     <td align="center"> 0.90 </td>
@@ -88,7 +88,7 @@ For this project, `RandomForestClassifier` was used.
     <td align="left"> Simple (unweighted) average of metrics across all classes, which treats all classes equally regardless of their support. </td>
   </tr>
   <tr>
-    <td align="left"> Weighted Avg </td>
+    <td align="left"> Weighted Average </td>
     <td align="center"> 0.90 </td>
     <td align="center"> 0.90 </td>
     <td align="center"> 0.90 </td>
