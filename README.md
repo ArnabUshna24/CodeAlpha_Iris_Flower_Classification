@@ -110,3 +110,6 @@ For this project, `RandomForestClassifier` was used.
     <td align="left"> Fig. 3: Class cluster for petal features </td>
   </tr>
 </table>
+
+
+If you have any queries, contact me: arnabnushna24@gmail.com
