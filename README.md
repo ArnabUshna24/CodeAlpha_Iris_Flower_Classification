@@ -106,7 +106,7 @@ For this project, `RandomForestClassifier` was used.
   </tr>
   <tr>
     <td align="left"> Fig. 1: Confusion matrix </td>
-    <td align="left"> Fig. 2: Feature importance </td>
+    <td align="left"> Fig. 2: Feature importance from Random Forest (RF) </td>
     <td align="left"> Fig. 3: Class cluster for petal features </td>
   </tr>
 </table>
